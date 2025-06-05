@@ -6,7 +6,7 @@ This ```notebook``` aims to conduct a comprehensive analysis of the Colombian re
 ## 2. Statistical analysis, distribution fitting, and calculation of statistical moments, as well as trends in the system's macrostate variables.
 ## 3. Predictive models such as Random Forest and Deep Learning to predict the value of homes, both for rent and for sale, based on the system's macrostate variables.
 
-The database can be found on [Kaggle](https://www.kaggle.com/) by clicking on Houses[Houses](https://www.kaggle.com/datasets/julianusugaortiz/colombia-housing-properties-price).
+The database can be found on [Kaggle](https://www.kaggle.com/) by clicking on [Houses](https://www.kaggle.com/datasets/julianusugaortiz/colombia-housing-properties-price).
 
 ## Conclusions
 
